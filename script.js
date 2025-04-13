@@ -71,5 +71,6 @@ resetbtn.onclick = () => {
     box.innerText = "";
     box.disabled = false;
     count = 0;
+    turnO = true;
   });
 };
